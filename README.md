@@ -1,6 +1,6 @@
 # A Quantitative Study of The Impact of Foreign Aid on Non-Violent Protest Frequency in Afghanistan
 
-This repository contains code and data to replicate the analysis from the 2025 American University graduate capstone by Jamshid Mohammadi. The study investigates the relationship between USAID-funded development projects and peaceful protest frequency in Afghanistan using a zero-inflated negative binomial (ZINB) regression.
+This repository contains code and data to replicate the analysis the study that investigates the relationship between USAID-funded development projects and peaceful protest frequency in Afghanistan using a zero-inflated negative binomial (ZINB) regression, authored by Jamshid Mohammadi. 
 
 ## Repository Structure
 
@@ -36,7 +36,7 @@ This repository contains code and data to replicate the analysis from the 2025 A
 2. **Install dependencies**  
    (Optionally use the provided `environment.yml` with [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) or install R packages listed inside scripts.)
 
-3. **Download raw data**  
+3. **Download raw data (optional)**  
    Place raw ACLED, USAID, and population files in `/data/` (see comments in scripts for download links).
 
 4. **Run analysis**  
