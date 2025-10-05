@@ -1,6 +1,6 @@
 # A Quantitative Study of The Impact of Foreign Aid on Non-Violent Protest Frequency in Afghanistan
 
-This repository contains code and data to replicate the analysis the study that investigates the relationship between USAID-funded development projects and peaceful protest frequency in Afghanistan using a zero-inflated negative binomial (ZINB) regression, authored by Jamshid Mohammadi. 
+This repository contains code data sources, cleaned data, and code scripts to replicate the analysis the study that investigates the relationship between USAID-funded development projects and peaceful protest frequency in Afghanistan using a zero-inflated negative binomial (ZINB) regression, submitted to fullfil the requirement for a Masters in Political Science at American University, School of Public Affairs, by Jamshid Mohammadi.  
 
 ## Repository Structure
 
@@ -50,6 +50,7 @@ This repository contains code and data to replicate the analysis the study that 
 - [ACLED Afghanistan](https://acleddata.com/)
 - [SIGAR/USAID Projects](https://www.usaid.gov/)
 - [World Bank Population Estimates](https://databank.worldbank.org/home.aspx)
+- 
 
 ## Citation
 If you use this code or analysis, please cite:
