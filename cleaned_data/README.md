@@ -1,10 +1,21 @@
+Title: **A Quantitative Study of The Impact of Foreign Aid on Non-
+Violent Protest Frequency in Afghanistan**
 
-Afghanistan
- 
-2021	 
-2022	 
-2023	 
-Unemployment, total (% of total labor force) (modeled ILO estimate)	11.99	14.10	13.99	
-Access to electricity (% of population)	97.70	85.30	..	
-Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)	6.40	7.04	..	
-Source: World Development Indicators. Click on a metadata icon for original source information to be used for citation.
+University: **American University, School of Public Affairs**
+
+Author: **Jamshid Mohammadi**
+
+**Citations**
+
+Armed Conflict Location & Event Data Project (ACLED). (2024). ACLED
+Dataset on Afghanistan Political Violence and Demonstrations. https://acleddata.com/
+
+U.S. Agency for International Development. (2020). Foreign assistance by
+country: Afghanistan (2001–2020). https://foreignassistance.gov
+
+United States Agency for International Development (USAID). (2020). U.S.
+Stabilization Efforts: What Do the Data Say? Dataset on Development Projects in
+Afghanistan. https://www.usaid.gov/
+
+World Bank. (2023). Afghanistan Population Estimates by District.
+https://databank.worldbank.org/home.aspx
