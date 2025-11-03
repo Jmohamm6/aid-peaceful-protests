@@ -40,11 +40,12 @@ Note: This repository doesn't contain the process of cleaning and engineering da
 3. **Download raw data (optional)**  
    Place raw ACLED, USAID, and population files in `/data/` (see comments in scripts for download links).
 
-4. **Run analysis**  
-   - Option 1: Step-by-step via `/scripts/` (in order: 01, 02, 03)
+4. **Run analysis**
+   - Option 1: clean, process and engineer data for ZINB model.
+   - Option 2: Step-by-step via `/scripts/` (in order: 01, 02, 03)
    - Option 2: Launch `/notebooks/analysis_walkthrough.Rmd` for a full pipeline walkthrough.
 
-5. **Results**  
+6. **Results**  
    Model outputs and figures are saved to `/results/`.
 
 ## Data Sources
