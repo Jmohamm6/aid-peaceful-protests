@@ -2,6 +2,7 @@
 
 This repository contains code data sources, cleaned data, and code scripts to replicate the analysis the study that investigates the relationship between USAID-funded development projects and peaceful protest frequency in Afghanistan using a zero-inflated negative binomial (ZINB) regression, submitted to fullfil the requirement for a Masters in Political Science at American University, School of Public Affairs, by Jamshid Mohammadi.  
 
+Note: This repository doesn't contain the process of cleaning and engineering data to fit a zero-inflated negative binomial regression into our analysis. Some steps must be independently taken, including cleaning acled, usaid and population data and arranging our set of variables are among a few missing steps. 
 ## Repository Structure
 
 ```
